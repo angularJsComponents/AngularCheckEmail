@@ -1,0 +1,17 @@
+{
+  "name": "AngularCheckEmail",
+  "authors": [
+    "amani&roua"
+  ],
+  "description": "",
+  "main": "checkEmail.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
